@@ -1,0 +1,18 @@
+sws group project checklist
+
+[x] GET and HEAD requests
+[x] HTTP/1.0 responses and HTTP/1.1 downgrade
+[x] Common response headers
+[x] If-Modified-Since
+[x] 400, 403, 404, 500, and 501 responses
+[x] Document root and default index.html
+[x] Directory indexing
+[x] User directories (/~user/sws)
+[x] Optional CGI directory (-c)
+[x] IPv4/IPv6 binding (-i)
+[x] Request logging (-l)
+[x] Debugging mode (-d)
+[x] Daemon mode
+[x] Multiple simultaneous connections
+[x] Makefile and README
+[x] Git repository and source history

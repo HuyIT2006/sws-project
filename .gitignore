@@ -1,0 +1,4 @@
+sws
+access.log
+*.o
+*.tmp
