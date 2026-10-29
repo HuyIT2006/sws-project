@@ -53,3 +53,10 @@ cat access.log
 ```
 
 Trong daemon mode, server tạo process riêng cho từng connection.
+
+## Thông tin nhóm
+
+- Điền tên và username Stevens của đủ 4 thành viên trước khi nộp.
+- Điền lại phần phân công: ai phụ trách socket/daemon, request parser, response/file serving,
+  CGI/logging, README và kiểm thử.
+- Git log hiện có commit nguồn ban đầu và sẽ được bổ sung qua các commit của từng thành viên.
